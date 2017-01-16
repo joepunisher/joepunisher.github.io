@@ -214,3 +214,6 @@ section.order{
 .padding {
 	padding:0 !important;
 }
+.state {
+	text-align:justify;
+}
